@@ -1,16 +1,16 @@
 ### Hi there 👋
+Lr1
 
-<!--
-**VladyslavKudii/VladyslavKudii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lr2
 
-Here are some ideas to get you started:
+Lr3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lr4
+
+Lr5
+
+Lr6
+
+Lr7
+
+Lr8 https://docs.google.com/document/d/1PjcKCK--6hVn1DDVIEvDFMk1JqBVKliz/edit?usp=drive_link&ouid=108132206644778314991&rtpof=true&sd=true
